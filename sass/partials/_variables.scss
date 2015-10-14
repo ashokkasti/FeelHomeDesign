@@ -1,13 +1,13 @@
 // colors
 
 $color-1: #2e3233; // grey dark
-$color-2: #f53009; // orange
+$color-2: #eb6d54; // orange
 $color-3: #e2e3df; // grey light 
 $color-4: #ffffff; // white
 
 // fonts 
 
-$primary-font: 'Lato', sans-serif;
+$primary-font: 'Open Sans', Arial, Helvetica, sans-serif;
 
 // header size
 
@@ -33,12 +33,18 @@ $content: 2;
 $above-content: 4;
 
 // Site colors
-$orange-primary: #f53009;
-$white-primary: #FFFFFF;
-$orange-light: #ffcbc1;
+$grey-lighter: #FAFAFA;
 $grey-light: #e2e3df;
 $grey-light-dark: #9a9a9a;
 $grey-dark: #2e3233;
+$orange-light: #ffcbc1;
+$orange-primary: #eb6d54;
+$orange-dark:#c72809	;
+$white-primary: #FFFFFF;
+
+$green-primary: #5ddcab;
+$green-dark: #39c48e;
+$yellow-primary: #FFDC40;
 
 
-$row-gap: 10px;
+$row-gap: 15px;

@@ -1,6 +1,10 @@
 //Slider
 $(document).ready(function() {
-    $('.pgwSlider').pgwSlider();
+    $('.pgwSlider').pgwSlider({
+    	displayList: false,
+    	displayControls: true,
+    	intervalDuration: 5000
+    });
 });
 
 // Navigation
